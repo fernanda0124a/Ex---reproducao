@@ -1,0 +1,147 @@
+* {
+margin:0;
+padding: 0;
+}
+
+#cabecalho{
+    background: #18181c;
+    display: inline-block;
+    width: 230px;
+    text-align: center;
+    color: white;
+    height: 100%;
+    font-size: 15px;
+    width: 250px;
+}
+li {
+padding: 15px;
+font-family: 'Montserrat', sans-serif;
+color: white;
+cursor: pointer;
+width: 100px;
+text-align: left;
+position: relative;
+transition: 0.3s;
+font-weight: bold;
+font-size: 12px;
+}
+li:hover{
+    background-color: #99896e;
+}
+img{
+    text-align: left;
+}
+#parte2{
+    background: #18181c;
+    width: 250px;
+    text-align: center;
+    color: white;
+    height: 100%;
+    font-size: 20px;    
+
+}
+.laranja{
+    background-color: #99896e;
+}
+
+#fb{
+    color: #99896e;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: left;
+    position: relative;
+    bottom: 240px;
+    font-size: 17px;
+}
+#logo{
+    padding: 45px;
+    cursor: pointer;
+    bottom: 20px;
+    position: relative;
+}
+
+#lista{
+    height: 600px;
+    text-align: center;
+    width: 100px;
+    font-size: 15px;   
+    position: relative;
+}
+#lista2{
+    height: 550px;
+    text-align: center;
+    width: 100px;
+    font-size: 15px;   
+    position: relative;
+    bottom: 200px;
+}
+
+#ft1{
+   position: relative;
+   display: inline-block;
+}
+
+#ftd1{
+    position: absolute;
+    left: 300px;
+    bottom: 140px;
+}
+#ftd2{
+    position: absolute;
+    left: 700px;
+    bottom: 540px;
+}
+#ftd3{
+    position: absolute;
+    left: 1480px;
+    bottom: 540px;
+}
+#ftd4{
+    position: absolute;
+    left: 700px;
+    bottom: 140px; 
+}
+#ftd5{
+    position: absolute;
+    left: 1080px;
+    bottom: 140px; 
+}
+#ftd6{
+    position: absolute;
+    left: 1480px;
+    bottom: 140px;
+}
+#ftd7{
+    position: absolute;
+    left: 300px;
+    top: 835px; 
+}
+#ftd8{
+    position: absolute;
+    left: 700px;
+    top: 835px; 
+}
+#ftd9{
+    position: absolute;
+    left: 1080px;
+    top: 835px; 
+}
+
+#credito{
+font-size: 12px;
+color: #99896e;
+position: relative;
+bottom: 30px;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+padding: 15px;
+}
+
+img {
+    transition: 0.4s;
+}
+
+.ima img:hover {
+    cursor: crosshair;
+    filter: brightness(0.4);
+}
